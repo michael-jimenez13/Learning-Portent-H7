@@ -23,3 +23,10 @@ STM32H747XIH6  https://www.st.com/en/microcontrollers-microprocessors/stm32h747x
 STM32H747XIH6   datasheet https://www.st.com/resource/en/datasheet/stm32h747xi.pdf  
 
 STM32H747XIH6    video https://www.st.com/en/microcontrollers-microprocessors/stm32h747xi.html#
+
+#### pinout
+
+## Portenta H7 Pinout documentation:
+Lots more info in this pdf file: https://content.arduino.cc/assets/Pinout-PortentaH7_latest.pdf
+
+![image-video/bothPinout.png](image-video/bothPinout.png)
